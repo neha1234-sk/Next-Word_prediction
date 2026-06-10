@@ -1,2 +1,7 @@
 # Next-Word_prediction
-Next word prediction using NLP bigram Model
+Bigram-based Next Word Prediction using NLTK in python
+
+# Model Used
+N-grams(nltk.util.ngrams)
+
+
